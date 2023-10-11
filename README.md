@@ -5,9 +5,10 @@
 Desarrollador Junior. Estudiante de Ing. de Software. Apasionado del area, siempre en continuo aprendizaje para aprender de todas las areas de las tecnologicas y aplicar esos conocimientos en mi trabajo. Dispuesto a aceptar nuevos desafios para poner a prueba mis habilidades para crecer a nivel profesional.
 
 ## Frameworks:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Lenguajes: 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
